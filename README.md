@@ -9,4 +9,5 @@ Main location:
  Example output: output.jpg
  
  Vector.h: Was not created by me. It was provided to me by my professor: Jerry Tessendorf 
+ 
     -For that reason Vector.h was not included.
